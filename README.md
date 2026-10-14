@@ -2,9 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08090e,45:302137,100:d99abb&height=75&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08090e,50:211c2a,100:9b7292&height=45&section=header" width="100%" />
 
-# Palak Singh
+<br/>
+
+# ✦ Palak Singh ✦
 
 **Artificial Intelligence • Machine Learning**
 
@@ -12,17 +14,24 @@
 
 <table>
 <tr>
-<td align="center">
-<img src="./0b1a0d3c7c9999fec32d62cd68ceec20.jpg" width="100" alt="Anime profile artwork"/>
+<td align="center" width="150">
+<img src="./0b1a0d3c7c9999fec32d62cd68ceec20.jpg" width="140" alt="Anime artwork"/>
 </td>
 <td align="center">
 
 ```text
- _   _      _ _        __        __         _     _ _
-| | | | ___| | | ___   \ \      / /__  _ __| | __| |
-| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` |
-|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |
-|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_|
+╭──────────────────────────────────────╮
+│  ●  ●  ●                             │
+├──────────────────────────────────────┤
+│                                      │
+│   HELLO WORLD                        │
+│                                      │
+│   > booting palak.exe ...            │
+│   > loading python ...... [ OK ]     │
+│   > loading machine learning [ OK ]  │
+│   > status: learning & building_     │
+│                                      │
+╰──────────────────────────────────────╯
 ```
 
 </td>
@@ -35,46 +44,41 @@
 
 ---
 
-## `About me`
+## `whoami`
 
-I'm Palak — a Computer Science student interested in Python, Machine Learning, and Artificial Intelligence. I enjoy turning data and ideas into practical projects and learning new technologies along the way. Currently working on an AI-powered forest fire detection and early warning system for Uttarakhand using deep learning, satellite data, and environmental features.
-
-<br/>
+I'm Palak — a Computer Science student interested in Python, Machine Learning, and Artificial Intelligence. I enjoy turning data and ideas into practical projects and learning new technologies. Currently working on an AI-powered forest fire detection and early warning system for Uttarakhand using deep learning, satellite data, and environmental features.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,pycharm&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,pycharm&theme=dark" alt="Technology icons"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-5B8FA8?style=flat-square" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-5B8FA8?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Palak-1612&bg_color=0d0d12&color=e6a0cb&line=bb86fc&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
-
-</div>
-
-<br/>
+## `github_stats`
 
 <div align="center">
 
-<img width="58%" src="https://github-readme-stats.vercel.app/api?username=Palak-1612&show_icons=true&theme=transparent&bg_color=0d0d12&title_color=e6a0cb&icon_color=e6a0cb&text_color=c9d1d9&hide_border=true" alt="GitHub statistics"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Palak-1612&show_icons=true&theme=transparent&bg_color=0d0d12&title_color=d9a3c5&icon_color=d9a3c5&text_color=c9d1d9&hide_border=true" alt="GitHub statistics"/>
 
-<img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=Palak-1612&theme=transparent&background=0d0d12&ring=e6a0cb&fire=e6a0cb&currStreakLabel=e6a0cb&hide_border=true" alt="GitHub streak"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Palak-1612&theme=transparent&background=0d0d12&ring=d9a3c5&fire=d9a3c5&currStreakLabel=d9a3c5&hide_border=true" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-1612&layout=compact&theme=transparent&bg_color=0d0d12&title_color=e6a0cb&text_color=c9d1d9&hide_border=true" alt="Top languages"/>
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-1612&layout=compact&theme=transparent&bg_color=0d0d12&title_color=d9a3c5&text_color=c9d1d9&hide_border=true" alt="Top languages"/>
 
 </div>
 
@@ -84,19 +88,21 @@ I'm Palak — a Computer Science student interested in Python, Machine Learning,
 
 <div align="center">
 
-<a href="https://github.com/Palak-1612/Movie-Recommendation-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Palak-1612&repo=Movie-Recommendation-System&theme=transparent&bg_color=0d0d12&title_color=e6a0cb&text_color=c9d1d9&icon_color=e6a0cb&hide_border=true" alt="Movie Recommendation System repository"/>
+<a href="https://github.com/Palak-1612?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_GitHub_Repositories-282332?style=for-the-badge&logo=github&logoColor=d9a3c5" alt="Explore repositories"/>
 </a>
 
 </div>
 
-**Movie Recommendation System** — A Python-based machine learning project that recommends movies using similarity-based techniques.
+### 01. Movie Recommendation System
+
+A Python-based machine learning project that recommends movies using similarity-based techniques.
 
 **Tech:** Python • Pandas • Scikit-learn
 
-<br/>
+### 02. AI-Powered Forest Fire Detection & Early Warning System
 
-**AI-Powered Forest Fire Detection & Early Warning System** `IN PROGRESS`
+<kbd>IN PROGRESS</kbd>
 
 A final-year project focused on forest fire risk prediction for Uttarakhand using deep learning, satellite data, and environmental features.
 
@@ -129,10 +135,10 @@ A final-year project focused on forest fire risk prediction for Uttarakhand usin
 
 <br/><br/>
 
-<sub>Python • Machine Learning • Learning by Building</sub>
+<sub>Python • HTML • CSS • Machine Learning • Learning by Building</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08090e,45:302137,100:d99abb&height=45&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08090e,50:211c2a,100:9b7292&height=40&section=footer" width="100%"/>
 
 </div>
