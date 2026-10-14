@@ -1,127 +1,137 @@
-<!-- ═════════ HEADER ═════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b0a45,100:ff2e97&height=240&section=header&text=Palak%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20AI%2FML%20Enthusiast&descSize=18&descAlignY=60" width="100%" />
+<!-- ================= HEADER ================= -->
 
 <div align="center">
 
-<a href="https://github.com/Palak-1612">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF2E97&center=true&vCenter=true&width=640&lines=%3E+system+online+%E2%80%94+welcome_;%3E+loading+python+%26+machine+learning...;%3E+building+projects%2C+one+commit+at+a+time_" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:30203d,100:e6a0cb&height=150&section=header" />
+
+# ✦ Palak Singh ✦
+
+### Computer Science Student • AI/ML Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=E6A0CB&center=true&vCenter=true&width=500&lines=booting+palak.exe...;loading+python+%5B+OK+%5D;loading+machine+learning+%5B+OK+%5D;status%3A+learning+%26+building_" alt="Typing SVG" />
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-E6A0CB?style=flat-square&logo=googlecolab&logoColor=black)](https://scikit-learn.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/Palak-1612)
+
+</div>
+
+---
+
+## `whoami`
+
+I'm Palak — a Computer Science student passionate about Python, Machine Learning, and Artificial Intelligence.
+
+I enjoy turning data and ideas into practical projects, exploring new technologies, and learning something new every day.
+
+Currently, I'm strengthening my AI/ML skills and working on projects that solve real-world problems.
+
+```text
++----------------------------------------+
+|                                        |
+|  > booting palak.exe ...               |
+|  > loading python ........ [ OK ]      |
+|  > loading machine learning [ OK ]     |
+|  > status: learning & building_        |
+|                                        |
++----------------------------------------+
+```
+
+---
+
+## `tech_stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,pycharm&theme=dark" alt="Technology icons" />
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-ff2e97?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
-<div align="center">
-
-```
-┌────────────────────────────────────────────┐
-│  > booting palak.exe ...                   │
-│  > loading python ............. [ OK ]     │
-│  > loading machine learning ... [ OK ]     │
-│  > status: learning & building_            │
-└────────────────────────────────────────────┘
-```
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-5B8FA8?style=flat-square" alt="Seaborn" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
 
 </div>
 
 ---
 
-## 🎧 `whoami`
-
-I'm **Palak**, a Computer Science student who loves Python, Machine Learning, and AI. I turn data and ideas into working projects, and I'm learning something new every day.
-
-```python
-class Palak:
-    def __init__(self):
-        self.name      = "Palak Singh"
-        self.pronouns  = "she/her"
-        self.role      = "Computer Science Student"
-        self.focus     = ["Machine Learning", "Deep Learning", "Data Science"]
-        self.fuel      = "lofi beats + chai ☕ + curiosity"
-        self.mantra    = "Learn. Build. Break. Repeat."
-
-    def currently(self):
-        return {
-            "🔭 working on": "AI/ML projects & improving my GitHub game",
-            "🌱 learning":   "Deep Learning, model deployment",
-            "🎯 goal":       "ML internship & real-world AI projects",
-        }
-```
-
----
-
-## 🛠️ Tech Arsenal
+## `github_stats`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pandas,numpy,git,github,vscode&theme=dark" alt="Tech stack" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Palak-1612&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=e6a0cb&icon_color=e6a0cb&text_color=c9d1d9&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-1612&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=e6a0cb&text_color=c9d1d9&hide_border=true" alt="Most used languages" />
+
+<br/><br/>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Palak-1612&theme=tokyonight&background=0d1117&ring=e6a0cb&fire=ff79c6&currStreakLabel=e6a0cb&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🧭 How I Build
+## `contribution_graph`
 
 <div align="center">
 
-```mermaid
-flowchart LR
-    A([💡 Idea]) --> B([📊 Data]) --> C([🧠 Model]) --> D([📈 Evaluate]) --> E([🚀 Deploy])
-    classDef step fill:#2d0a31,stroke:#ff2e97,color:#ffffff,stroke-width:2px;
-    class A,B,C,D,E step;
-```
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Palak-1612&bg_color=0d1117&color=e6a0cb&line=bb86fc&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## `featured_projects`
 
-<div align="center">
+### 01. Movie Recommendation System
 
-<a href="https://github.com/Palak-1612/Movie-Recommendation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palak-1612&repo=Movie-Recommendation-System&theme=synthwave&hide_border=true" alt="Movie Recommendation System" />
-</a>
+A machine learning project that recommends movies using similarity-based techniques.
 
-</div>
+**Tech:** Python • Pandas • Scikit-learn
 
-> 💡 More projects coming soon. Stay tuned!
+[View Repository](https://github.com/Palak-1612)
+
+### 02. AI-Powered Forest Fire Detection & Early Warning System *(In Progress)*
+
+Working on a final-year project to predict forest fire risk in Uttarakhand using deep learning, satellite data, and environmental features.
+
+**Planned technologies:** Python • Deep Learning • CNN-LSTM • Satellite Data • GIS
+
+*Project currently under development.*
 
 ---
 
-## 📊 GitHub Stats
+## `currently`
+
+- Learning Python and Machine Learning.
+- Developing my final-year Forest Fire Detection project.
+- Exploring deep learning and geospatial data.
+- Improving my problem-solving and model-building skills.
+- Looking for opportunities to learn, collaborate, and grow.
+
+---
+
+## `connect_with_me`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Palak-1612&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-1612&layout=compact&theme=synthwave&hide_border=true" />
+[![GitHub](https://img.shields.io/badge/GitHub-Palak--1612-181717?style=for-the-badge&logo=github)](https://github.com/Palak-1612)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Palak-1612&theme=synthwave&hide_border=true" />
+### `let's build something.`
+
+<sub>Learning in public • Building with curiosity • Growing every day</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:30203d,100:e6a0cb&height=100&section=footer" width="100%" />
 
 </div>
-
----
-
-## 🌸 Fun Facts
-
-- 🎧 My best code always happens with headphones on
-- 🐛 Debugging = 10% fixing, 90% "wait, how was this even working?"
-- 📚 Currently obsessed with turning ideas into working models
-
----
-
-<div align="center">
-
-### let's build something.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palak-singh-45974a387)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palaksingh22d@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b0a45,100:ff2e97&height=130&section=footer" width="100%" />
