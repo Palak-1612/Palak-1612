@@ -1,15 +1,15 @@
-<!-- ═════════ HEADER BANNER ═════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Palak%20Singh&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20Student%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Builder&descSize=18&descAlignY=58" width="100%" />
+<!-- ═════════ HEADER ═════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:c084fc&height=240&section=header&text=Palak%20Singh&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Builder&descSize=18&descAlignY=60" width="100%" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/Palak-1612">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=640&lines=Turning+data+into+decisions+%F0%9F%93%8A;Training+models%2C+breaking+things%2C+fixing+them+%F0%9F%A7%A0;Building+AI+projects+that+solve+real+problems+%F0%9F%8C%8D;Learning+something+new+every+single+day+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
@@ -22,21 +22,11 @@
 
 ### Hi, I'm Palak 👩‍💻
 
-*Where curiosity meets code.*
-
 </div>
 
-I'm a **Computer Science student** with a deep curiosity for **Python**, **Machine Learning**, and **Artificial Intelligence**. I love turning raw data and wild ideas into working models and real-world projects, and I'm always hunting for the next problem worth solving.
+I'm a Computer Science student who loves Python, Machine Learning, and AI. I enjoy turning data and ideas into working projects, and I'm learning something new every day.
 
-Clean code, smart models, and constant learning: that's the recipe I'm following. ✨
-
-| ✨ At a Glance | Details |
-|:--|:--|
-| 🎓 **Graduation** | 20XX |
-| 💻 **Tech Focus** | Python · Machine Learning · Deep Learning · Data Science |
-| 🌱 **Currently Learning** | Deep Learning, Model Deployment & Advanced Python |
-| 🎯 **Goal** | Land an ML internship and build AI projects that create real impact |
-| ⚡ **Fun Fact** | I'll happily spend hours chasing one stubborn bug, because the "aha!" moment is totally worth it |
+> *"Curiosity writes the first line of code. Consistency finishes it."* ✨
 
 ---
 
@@ -66,26 +56,33 @@ class Palak:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pandas,numpy,git,github,vscode&theme=dark" alt="Tech stack" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧭 How I Build
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A([💡 Idea]) --> B([📊 Data]) --> C([🧠 Model]) --> D([📈 Evaluate]) --> E([🚀 Deploy])
+    classDef step fill:#f3e8ff,stroke:#c084fc,color:#4c1d95,stroke-width:2px;
+    class A,B,C,D,E step;
+```
+
+</div>
+
+---
+
+## 🚀 Featured Project
 
 <div align="center">
 
 <a href="https://github.com/Palak-1612/Movie-Recommendation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palak-1612&repo=Movie-Recommendation-System&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palak-1612&repo=Movie-Recommendation-System&theme=radical&hide_border=true" alt="Movie Recommendation System" />
 </a>
 
 </div>
@@ -126,8 +123,8 @@ class Palak:
 
 <br/>
 
-*"Code is like humor. When you have to explain it, it's bad."* 😄
+*Thanks for stopping by! If you like what you see, drop a ⭐ on my repos.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:c084fc&height=130&section=footer" width="100%" />
