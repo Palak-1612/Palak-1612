@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=C49AB8&center=true&vCenter=true&width=550&lines=Learning+Python+%26+Machine+Learning;Building+projects+one+step+at+a+time;Exploring+AI%2C+data+%26+deep+learning" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=8B718F&center=true&vCenter=true&width=550&lines=Learning+Python+%26+Machine+Learning;Building+projects+one+step+at+a+time;Exploring+AI%2C+data+%26+deep+learning" alt="Typing introduction"/>
 
 <br/><br/>
 
@@ -122,20 +122,6 @@ Exploring Python, machine learning, data analysis, and computer vision through h
 <br/><br/>
 
 <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-1612&layout=compact&hide_border=true&bg_color=161622&title_color=B99ACB&text_color=E6E1EC" alt="Most used languages"/>
-
-</div>
-
----
-
-## 📈 GitHub Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak-1612&bg_color=161622&color=E6E1EC&line=B99ACB&point=D59AB8&area=true&area_color=514064&hide_border=true&custom_title=Palak's%20Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/B99ACB/Palak-1612" width="100%" alt="GitHub yearly contribution calendar"/>
 
 </div>
 
