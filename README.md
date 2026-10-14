@@ -35,7 +35,7 @@
 
 ---
 
-## `whoami`
+## `About me`
 
 I'm Palak — a Computer Science student interested in Python, Machine Learning, and Artificial Intelligence. I enjoy turning data and ideas into practical projects and learning new technologies along the way. Currently working on an AI-powered forest fire detection and early warning system for Uttarakhand using deep learning, satellite data, and environmental features.
 
