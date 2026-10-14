@@ -1,36 +1,37 @@
 <!-- ═════════ HEADER ═════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:c084fc&height=240&section=header&text=Palak%20Singh&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Builder&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b0a45,100:ff2e97&height=240&section=header&text=Palak%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20AI%2FML%20Enthusiast&descSize=18&descAlignY=60" width="100%" />
 
 <div align="center">
 
 <a href="https://github.com/Palak-1612">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=640&lines=Turning+data+into+decisions+%F0%9F%93%8A;Training+models%2C+breaking+things%2C+fixing+them+%F0%9F%A7%A0;Building+AI+projects+that+solve+real+problems+%F0%9F%8C%8D;Learning+something+new+every+single+day+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF2E97&center=true&vCenter=true&width=640&lines=%3E+system+online+%E2%80%94+welcome_;%3E+loading+python+%26+machine+learning...;%3E+building+projects%2C+one+commit+at+a+time_" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-ff2e97?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
-
----
-
-## 💫 About Me
 
 <div align="center">
 
-### Hi, I'm Palak 👩‍💻
+```
+┌────────────────────────────────────────────┐
+│  > booting palak.exe ...                   │
+│  > loading python ............. [ OK ]     │
+│  > loading machine learning ... [ OK ]     │
+│  > status: learning & building_            │
+└────────────────────────────────────────────┘
+```
 
 </div>
-
-I'm a Computer Science student who loves Python, Machine Learning, and AI. I enjoy turning data and ideas into working projects, and I'm learning something new every day.
-
-> *"Curiosity writes the first line of code. Consistency finishes it."* ✨
 
 ---
 
 ## 🎧 `whoami`
+
+I'm **Palak**, a Computer Science student who loves Python, Machine Learning, and AI. I turn data and ideas into working projects, and I'm learning something new every day.
 
 ```python
 class Palak:
@@ -69,7 +70,7 @@ class Palak:
 ```mermaid
 flowchart LR
     A([💡 Idea]) --> B([📊 Data]) --> C([🧠 Model]) --> D([📈 Evaluate]) --> E([🚀 Deploy])
-    classDef step fill:#f3e8ff,stroke:#c084fc,color:#4c1d95,stroke-width:2px;
+    classDef step fill:#2d0a31,stroke:#ff2e97,color:#ffffff,stroke-width:2px;
     class A,B,C,D,E step;
 ```
 
@@ -82,7 +83,7 @@ flowchart LR
 <div align="center">
 
 <a href="https://github.com/Palak-1612/Movie-Recommendation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palak-1612&repo=Movie-Recommendation-System&theme=radical&hide_border=true" alt="Movie Recommendation System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palak-1612&repo=Movie-Recommendation-System&theme=synthwave&hide_border=true" alt="Movie Recommendation System" />
 </a>
 
 </div>
@@ -95,12 +96,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Palak-1612&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-1612&layout=compact&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Palak-1612&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-1612&layout=compact&theme=synthwave&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Palak-1612&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Palak-1612&theme=synthwave&hide_border=true" />
 
 </div>
 
@@ -114,17 +115,13 @@ flowchart LR
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
+
+### let's build something.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palak-singh-45974a387)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palaksingh22d@gmail.com)
 
-<br/>
-
-*Thanks for stopping by! If you like what you see, drop a ⭐ on my repos.*
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:c084fc&height=130&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b0a45,100:ff2e97&height=130&section=footer" width="100%" />
