@@ -16,6 +16,30 @@
 
 ---
 
+## 💫 About Me
+
+<div align="center">
+
+### Hi, I'm Palak 👩‍💻
+
+*Where curiosity meets code.*
+
+</div>
+
+I'm a **Computer Science student** with a deep curiosity for **Python**, **Machine Learning**, and **Artificial Intelligence**. I love turning raw data and wild ideas into working models and real-world projects, and I'm always hunting for the next problem worth solving.
+
+Clean code, smart models, and constant learning: that's the recipe I'm following. ✨
+
+| ✨ At a Glance | Details |
+|:--|:--|
+| 🎓 **Graduation** | 20XX |
+| 💻 **Tech Focus** | Python · Machine Learning · Deep Learning · Data Science |
+| 🌱 **Currently Learning** | Deep Learning, Model Deployment & Advanced Python |
+| 🎯 **Goal** | Land an ML internship and build AI projects that create real impact |
+| ⚡ **Fun Fact** | I'll happily spend hours chasing one stubborn bug, because the "aha!" moment is totally worth it |
+
+---
+
 ## 🎧 `whoami`
 
 ```python
