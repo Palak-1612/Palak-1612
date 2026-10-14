@@ -67,7 +67,7 @@ class Palak:
 
 </div>
 
-> 💡 Aur projects add hote hi yahan pin karungi. Stay tuned!
+> 💡 More projects coming soon. Stay tuned!
 
 ---
 
@@ -86,21 +86,13 @@ class Palak:
 
 ---
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak-1612&bg_color=0d1117&color=c084fc&line=f472b6&point=ffffff&area=true&hide_border=true" width="100%" />
-
----
-
 ## 🌸 Fun Facts
 
-- 🎧 Best code toh headphones lagake hi nikalta hai
-- 🐛 Debugging = 10% fixing, 90% "ye chal kaise raha tha?"
+- 🎧 My best code always happens with headphones on
+- 🐛 Debugging = 10% fixing, 90% "wait, how was this even working?"
 - 📚 Currently obsessed with turning ideas into working models
 
 ---
-
-## 🤝 Let's Connect
 
 ## 🤝 Let's Connect
 
@@ -114,3 +106,6 @@ class Palak:
 *"Code is like humor. When you have to explain it, it's bad."* 😄
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" />
+
