@@ -9,7 +9,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Palak-1612&label=Profile%20Views&color=c084fc&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Palak-1612?style=for-the-badge&logo=github&color=c084fc&label=Followers)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white)
 
@@ -108,4 +108,3 @@ class Palak:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" />
-
