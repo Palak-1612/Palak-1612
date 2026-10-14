@@ -9,7 +9,6 @@
 
 <br/>
 
-![Followers](https://img.shields.io/github/followers/Palak-1612?style=for-the-badge&logo=github&color=c084fc&label=Followers)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white)
 
